@@ -1,0 +1,11 @@
+# Can ignore specific files
+.DS_Store
+
+# Use wildcards as well
+*~
+*.pyc
+*.swp
+*.idea
+settings.py
+db.sqlite3
+__pycache__
