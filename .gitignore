@@ -9,3 +9,4 @@
 settings.py
 db.sqlite3
 __pycache__
+config/api_keys.py
